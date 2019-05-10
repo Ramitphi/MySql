@@ -4,4 +4,4 @@ FROM Student';
 //for retrieving data with based on some condition
 SELECT *
 FROM Student
-WHERE class='11';
+WHERE class=11;
