@@ -1,0 +1,12 @@
+SELECT Class,
+Count(Roll_no)
+FROM Student
+GROUP BY Class;
+
+
+//using group by clause with condition
+SELECT Class,
+Count(Roll_no)
+FROM Student
+GROUP BY Class
+HAVING Class >=10;
