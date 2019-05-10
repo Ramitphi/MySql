@@ -1,5 +1,5 @@
 SELECT *
-FROM Student';
+FROM Student;
 
 //for retrieving data with based on some condition
 SELECT *
