@@ -1,0 +1,2 @@
+INSERT INTO Student
+VALUES ('101','Ramit','11','97******47');
