@@ -1,0 +1,6 @@
+CREATE TABLE Student(
+Roll_no int primary key,
+Name     varchar(10) NOT NULL,
+Class     varchar(10) NOT NULL,
+Mobile_No  char(10)   NULL
+);
